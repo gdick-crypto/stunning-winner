@@ -1,0 +1,23 @@
+{
+  "name": "stunning-winner",
+  "version": "1.0.0",
+  "description": "The 'Stunning Winner' restaurant's website!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gdick-crypto/stunning-winner.git"
+  },
+  "author": "Giovanni Dick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdick-crypto/stunning-winner/issues"
+  },
+  "homepage": "https://github.com/gdick-crypto/stunning-winner#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
